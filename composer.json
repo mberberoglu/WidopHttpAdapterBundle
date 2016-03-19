@@ -1,5 +1,5 @@
 {
-    "name": "darles/http-adapter-bundle",
+    "name": "mberberoglu/http-adapter-bundle",
     "description": "Issue HTTP request.",
     "keywords": [ "request", "http" ],
     "type": "symfony-bundle",
